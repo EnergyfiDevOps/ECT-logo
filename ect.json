@@ -7,7 +7,7 @@
     "patch": 0
   },
   "tags": {},
-  "logoURI": "https://raw.githubusercontent.com/EnergyfiDevOps/Echain-Bridge/628b684dfae7b95e788edd5636fbcf832f8d4dcf/logoect.png",
+  "logoURI": "https://raw.githubusercontent.com/EnergyfiDevOps/ECT-logo/master/logoect.png",
   "keywords": [
     "wetc"
   ],
@@ -18,7 +18,7 @@
         "symbol": "WECT",
         "decimals": 18,
         "chainId": 37068,
-        "logoURI": "https://raw.githubusercontent.com/EnergyfiDevOps/Echain-Bridge/628b684dfae7b95e788edd5636fbcf832f8d4dcf/logoect.png"
+        "logoURI": "https://raw.githubusercontent.com/EnergyfiDevOps/ECT-logo/master/logoect.png"
     }
   ]
 }
