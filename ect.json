@@ -1,0 +1,24 @@
+{
+  "name": "Echain Default",
+  "timestamp": "2022-11-21T14:04:21.015Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://raw.githubusercontent.com/EnergyfiDevOps/Echain-Bridge/628b684dfae7b95e788edd5636fbcf832f8d4dcf/logoect.png",
+  "keywords": [
+    "wetc"
+  ],
+  "tokens": [
+    {
+        "name": "Wrapped ECT",
+        "address": "0xc7ff981E6C7BF39D57a957550a7E1E99E824DF52",
+        "symbol": "WECT",
+        "decimals": 18,
+        "chainId": 37068,
+        "logoURI": "https://raw.githubusercontent.com/EnergyfiDevOps/Echain-Bridge/628b684dfae7b95e788edd5636fbcf832f8d4dcf/logoect.png"
+    }
+  ]
+}
