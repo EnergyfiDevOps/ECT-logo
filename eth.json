@@ -27,6 +27,14 @@
         "decimals": 18,
         "chainId": 1,
         "logoURI": "https://raw.githubusercontent.com/EnergyfiDevOps/ECT-logo/master/usdt.png"
+    },
+    {
+        "name": "WETH",
+        "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "symbol": "WETH",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://raw.githubusercontent.com/EnergyfiDevOps/ECT-logo/master/eth.png"
     }
   ]
 }
